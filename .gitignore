@@ -60,3 +60,4 @@ dkms.conf
 .DS_Store
 Thumbs.db
 *.log
+src/shell-skeleton
